@@ -10,5 +10,9 @@
     "@types/react-native": "*",
     "react": "*",
     "react-native": "*"
+  },
+  "dependencies": {
+    "react-native-paper": "^4.4.1",
+    "react-native-vector-icons": "^7.1.0"
   }
 }

@@ -14,7 +14,8 @@
   "dependencies": {
     "components": "0.0.1",
     "react": "17.0.1",
-    "react-native": "0.63.3"
+    "react-native": "0.63.3",
+    "react-native-vector-icons": "^7.1.0"
   },
   "devDependencies": {
     "@testing-library/jest-native": "3.4.3",
